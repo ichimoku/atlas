@@ -1,0 +1,2 @@
+# atlas
+Python trading platform.
